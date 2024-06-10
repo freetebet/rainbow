@@ -1,2 +1,1 @@
-리드미 변경
-리드미 변경
+This is the Rainbow project
